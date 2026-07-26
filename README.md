@@ -1,7 +1,7 @@
 # 🚀 Real-Time CDC Pipeline  
 ## PostgreSQL → Debezium → Kafka → Spark Structured Streaming → Delta Lake / Parquet
 
-![Architecture](docs/images/cdc_architecture.png)
+![Pipeline](CDC_pipline_diagram.png)
 
 ## 📌 Project Overview
 
